@@ -1,2 +1,1 @@
-nextcord
-nextcord.io
+nextcord==2.0.0
